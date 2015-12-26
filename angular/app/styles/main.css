@@ -80,4 +80,8 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+  .time_stamp {
+    display: block;
+    color: blue;
+}
 }
